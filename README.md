@@ -15,3 +15,5 @@ https://www.pluralsight.com/guides/ruby-ruby-on-rails/creating-a-chat-using-rail
     areyoygonnaeatthat
     resume
     applications
+link to Medium on linkdin
+  add articles, work with chat bot
