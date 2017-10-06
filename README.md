@@ -8,3 +8,10 @@ https://stackoverflow.com/questions/6637341/use-tab-to-indent-in-textarea
 
 https://www.pluralsight.com/guides/ruby-ruby-on-rails/creating-a-chat-using-rails-action-cable#trasmitting-data
 -- websocket tutorial
+
+- Graduate date- Oct 6th, 2017
+  todo
+    personal webabpps
+    areyoygonnaeatthat
+    resume
+    applications
