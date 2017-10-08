@@ -11,11 +11,17 @@ https://www.pluralsight.com/guides/ruby-ruby-on-rails/creating-a-chat-using-rail
 
 - Graduate date- Oct 6th, 2017
   todo
+    
     personal webabpps
+    
     areyoygonnaeatthat
+    
     resume
+    
     applications
-link to Medium on linkdin
-  add articles, work with chat bot
-organize projects for week 
-build a TIL file for github
+    
+-link to Medium on linkdin
+  -add articles, work with chat bot
+-organize projects for week 
+-build a TIL file for github
+-hackerrank
