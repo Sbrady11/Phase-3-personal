@@ -16,7 +16,7 @@ https://www.pluralsight.com/guides/ruby-ruby-on-rails/creating-a-chat-using-rail
     
     areyoygonnaeatthat
     
-    resume
+    resume- started, check trello
     
     applications
     
