@@ -16,12 +16,7 @@ https://www.pluralsight.com/guides/ruby-ruby-on-rails/creating-a-chat-using-rail
     
     areyoygonnaeatthat
     
-    resume- started, check trello
-    
     applications
     
 -link to Medium on linkdin
-  -add articles, work with chat bot
--organize projects for week 
 -build a TIL file for github
--hackerrank
